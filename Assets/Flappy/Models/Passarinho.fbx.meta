@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: beb42996ca8214c42903f5da727e758f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Asinha_Direita
+    100002: Asinha_Esquerda
+    100004: Cabelinhos
+    100006: Corpinho
+    100008: //RootNode
+    100010: Patinhas
+    100012: Rabinho
+    400000: Asinha_Direita
+    400002: Asinha_Esquerda
+    400004: Cabelinhos
+    400006: Corpinho
+    400008: //RootNode
+    400010: Patinhas
+    400012: Rabinho
+    2100000: Azul
+    2100002: Branco
+    2100004: Bico
+    2100006: Preto
+    2100008: Azul2
+    2100010: Laranja
+    2300000: Rabinho
+    3300000: Rabinho
+    4300000: Corpinho
+    4300002: Asinha_Direita
+    4300004: Patinhas
+    4300006: Cabelinhos
+    4300008: Rabinho
+    4300010: Asinha_Esquerda
+    7400000: Scene
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Asinha_Direita
+    13700002: Asinha_Esquerda
+    13700004: Cabelinhos
+    13700006: Corpinho
+    13700008: Patinhas
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul
+    second: {fileID: 2100000, guid: 283a7e991b1a81d42a4e15556c825c80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul2
+    second: {fileID: 2100000, guid: c196a20437ff8944b8092d930c7215fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Branco
+    second: {fileID: 2100000, guid: 010d3212cdbf41b44814f7ebae3c37c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laranja
+    second: {fileID: 2100000, guid: ba9e59a96e574184eae365372a6bf496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Preto
+    second: {fileID: 2100000, guid: 85053e7fd7cccdd4fa00af459d3da6a5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
